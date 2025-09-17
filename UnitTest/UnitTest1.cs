@@ -1,16 +1,22 @@
+using Mukuru;
+
 namespace UnitTest
 {
     public class Tests
     {
+        private Greeter greeter;
+
         [SetUp]
         public void Setup()
         {
+            greeter = new Greeter();
         }
 
         [Test]
-        public void Test1()
+        public void SayHello_ShouldReturnHelloWorld()
         {
-            Assert.Pass();
+            var result = greeter.SayHello();
+            Assert.AreEqual("Hello, World!", result);
         }
     }
 }
