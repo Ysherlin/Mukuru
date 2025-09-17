@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mukuru")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833cef9bea31e5fd6e20a3dd0cf7a849c444d291")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e43bf1138f4621fd6db995c6c151d0ec5cd138e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mukuru")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mukuru")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

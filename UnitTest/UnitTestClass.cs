@@ -2,7 +2,7 @@ using Mukuru;
 
 namespace UnitTest
 {
-    public class Tests
+    public class UnitTestClass
     {
         private Greeter greeter;
 
