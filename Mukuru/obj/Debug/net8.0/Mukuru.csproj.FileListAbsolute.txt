@@ -1,0 +1,15 @@
+C:\Repo\Mukuru\Mukuru\bin\Debug\net8.0\Mukuru.exe
+C:\Repo\Mukuru\Mukuru\bin\Debug\net8.0\Mukuru.deps.json
+C:\Repo\Mukuru\Mukuru\bin\Debug\net8.0\Mukuru.runtimeconfig.json
+C:\Repo\Mukuru\Mukuru\bin\Debug\net8.0\Mukuru.dll
+C:\Repo\Mukuru\Mukuru\bin\Debug\net8.0\Mukuru.pdb
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.AssemblyInfoInputs.cache
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.AssemblyInfo.cs
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.csproj.CoreCompileInputs.cache
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.sourcelink.json
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.dll
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\refint\Mukuru.dll
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.pdb
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\Mukuru.genruntimeconfig.cache
+C:\Repo\Mukuru\Mukuru\obj\Debug\net8.0\ref\Mukuru.dll
